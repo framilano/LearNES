@@ -1,5 +1,5 @@
 # LearNES
-### A NES emulator to learn how to write an emulator :P
+### A NES emulator to learn how NES emulators work :P
 #### The reference guide will be [Chris Siebert](https://github.com/100thCoin) NES emulation tutorial.
 
 #### 1 - Power On
